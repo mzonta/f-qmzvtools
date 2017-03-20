@@ -1,0 +1,4 @@
+[Color]
+NONE = NoSelection
+RGB_TO_GRAY = RGB -> GRAY
+RGB_TO_HSV = RGB -> HSV 
