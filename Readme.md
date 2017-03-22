@@ -14,10 +14,11 @@ The project is part of my self-training started in 2015 and, for different reaso
 
 ## Software
 
-* OS: JetsonPack 1.2 - Linux4Tegra (L4T) 21.4 (based on Ubuntu 14.04 LTS)
+* OS: [JetsonPack 1.2][jpk12] - Linux4Tegra (L4T) 21.4 (derived from Ubuntu 14.04)
 
 * IDE: QtCreator 3.0.1 
 
-* Application: Qt5.5.1 compiled from source on Jetson TK1 / C++ / OpenCV4Tegra (part of L4T)
+* Application: Qt5.5.1 compiled from source on Jetson TK1 / C++ / OpenCV4Tegra (part of L4T, derived from OpenCV 2.4.10.1)
 
 
+[kpk12]: https://developer.nvidia.com/jetson-tk1-development-pack-1_2
